@@ -70,13 +70,7 @@ Financial data usually contain much more noise than predictive signal.
 
 Conceptually:
 
-$$
-\text{Observed Market Data}
-=
-\text{Predictive Signal}
-+
-\text{Noise}
-$$
+> **Observed Market Data = Predictive Signal + Noise**
 
 Even a small amount of predictive information may therefore be meaningful.
 
