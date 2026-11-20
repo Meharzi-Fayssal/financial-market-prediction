@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# N'inclure ni les données de marché ni les modèles entraînés dans Git.
+data/*.csv
+outputs/**/*.csv
+outputs/**/*.png
+outputs/**/*.pt
+outputs/**/*.txt
+outputs/**/*.joblib
+outputs/**/*.json

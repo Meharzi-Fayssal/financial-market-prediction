@@ -20,7 +20,7 @@ url_0 = f"{repo}/train.parquet/partition_id=0/part-0.parquet"
 url_1 = f"{repo}/train.parquet/partition_id=1/part-0.parquet"
 
 # Dossier de sauvegarde
-output_dir = Path(__file__).resolve().parent.parent / "data"
+output_dir = Path(__file__).resolve().parent / "data"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Connexion DuckDB

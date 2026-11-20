@@ -1,0 +1,13 @@
+# Installer avec : pip install -r requirements.txt
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+lightgbm>=4.0
+torch>=2.2
+python-dotenv>=1.0
+joblib>=1.3
+matplotlib>=3.7
+# Scripts originaux de préparation/EDA
+duckdb>=1.0
+tqdm>=4.66
+pyarrow>=15.0
